@@ -2,7 +2,7 @@
 
 A phased, multi-wave PR campaign deck to establish eTeacher Group as the leader in accessible longevity education.
 
-- **17 fully written articles** across 4 narrative waves
+- **22 fully written articles** across 5 narrative waves
 - Highlighted CEO (Harel Tayeb) and spokesperson (Julie Gibson Clark) quotes
 - Outlet engine: process, realistic odds, reach, and timeframes
 - 90-day rollout timeline
